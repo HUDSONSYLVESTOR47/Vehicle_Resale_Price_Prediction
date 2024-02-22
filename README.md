@@ -11,16 +11,17 @@ Dataset Link: Dataset
 Feature Description Link: Features
 
 # Approach:
-Import data from all excel files
-Examine the structure of each dataset component (New Car Detail, New Car Overview, etc.).
-Check for missing values, outliers, data types and other statistical inference.
-Handle Missing Values
-Feature Engineering
-Encode categorical variables using suitable techniques.
-Normalization/Scaling
-Exploratory Data Analysis
-Choose regression models suitable for predicting continuous values
-Model Evaluation
-Fine-tune Hyperparameters
-Feature Importance
-GUI - Streamlit
+- Import data from all excel files
+- Examine the structure of each dataset component (New Car Detail, New Car Overview, etc.).
+- Check for missing values, outliers, data types and other statistical inference.
+- Handle Missing Values
+- Feature Engineering
+- Encode categorical variables using suitable techniques.
+- Normalization/Scaling
+- Exploratory Data Analysis
+- Choose regression models suitable for predicting continuous values
+- Model Evaluation
+- Fine-tune Hyperparameters
+- Feature Importance
+- GUI - Streamlit
+-
